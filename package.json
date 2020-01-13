@@ -1,0 +1,19 @@
+{
+  "name": "301-practice-4",
+  "version": "1.0.0",
+  "description": "In an express server application, what does dotenv do it is a zero-dependency module that loads environment variables from a .env file into process.env.",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/munaalshorman/301-practice-4.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/munaalshorman/301-practice-4/issues"
+  },
+  "homepage": "https://github.com/munaalshorman/301-practice-4#readme"
+}
